@@ -1,0 +1,8 @@
+Brute force algorithm to solve TSP.
+Works good for very small n (number of cities).
+
+Picks a permuation of cities randomly. Tries to connect city[i] and city[i+1].
+At the end measures the total distance.
+
+O(n!) time complexity.
+The best path is highlighted with purple color eventually.
