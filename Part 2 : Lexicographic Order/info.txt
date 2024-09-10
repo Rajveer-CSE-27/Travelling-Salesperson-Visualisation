@@ -16,3 +16,5 @@ Read the below article for understanding algorithm to generate all possible perm
 https://www.quora.com/How-would-you-explain-an-algorithm-that-generates-permutations-using-lexicographic-ordering
 
 I have used the above mentioned approach in this article to generate all permuatations.
+
+Time complexity :: O(n!)
