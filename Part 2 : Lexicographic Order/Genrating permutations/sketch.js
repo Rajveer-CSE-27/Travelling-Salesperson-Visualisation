@@ -1,4 +1,4 @@
-var cities = [1, 2, 3, 4]; // do not put 0 in this
+var cities = [1, 2, 3, 4]; 
 
 function setup() {
   createCanvas(500, 600); // creating a canvas of 500x600 pixels
