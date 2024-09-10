@@ -1,0 +1,5 @@
+We are using genetic algorithm with mutation and crossover to generate better permutations of order of cities in each newer generation of population.
+Over the period of time it reaches optimal state faster due to crossover and mutations.
+
+Future work can be done in improving the mutation function and crossover function.
+Better the crossover and mutation, better the results in each newer population.
