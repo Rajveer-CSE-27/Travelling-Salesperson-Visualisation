@@ -1,1 +1,18 @@
+Let there be array = [0,1,2]. 
+Each element represents a city.
+Generating all permutations of this array using lexicographic ordering :: 
+    [0,1,2]
+    [0,2,1]
+    [1,0,2]
+    [1,2,0]
+    [2,0,1]
+    [2,1,0]
 
+These n! permuations represents all possible city orderings.
+And then we can calculate the total distance with path between city i and city i+1.
+And get the smallest total distance, which will be a solution to TSP.
+
+Read the below article for understanding algorithm to generate all possible permuatation using lexicographic ordering.
+https://www.quora.com/How-would-you-explain-an-algorithm-that-generates-permutations-using-lexicographic-ordering
+
+I have used the above mentioned approach in this article to generate all permuatations.
